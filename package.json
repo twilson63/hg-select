@@ -4,15 +4,15 @@
   "description": "[![build status](https://secure.travis-ci.org/twilson63/hg-select.png)](http://travis-ci.org/twilson63/hg-select)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tap test"
   },
   "keywords": [],
   "author": "Tom",
   "license": "MIT",
   "devDependencies": {
     "capitalize": "^0.5.0",
+    "mercury": "^14.0.0",
     "tap": "^0.7.1",
-    "virtual-dom": "^2.0.1",
     "xtend": "^4.0.0"
   },
   "dependencies": {

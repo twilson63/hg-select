@@ -1,7 +1,7 @@
 var test = require('tap').test
 var option = require('../option')
 
-var h = require('virtual-dom/h')
+var h = require('mercury').h
 
 test('basic select control', function (t) {
   t.deepEquals(

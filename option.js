@@ -1,4 +1,4 @@
-var h = require('virtual-dom/h')
+var h = require('mercury').h
 var xtend = require('xtend')
 
 module.exports = function (text, attributes) {
