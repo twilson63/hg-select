@@ -1,0 +1,21 @@
+{
+  "name": "hg-select",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tom",
+  "license": "ISC",
+  "devDependencies": {
+    "capitalize": "^0.5.0",
+    "tap": "^0.7.1",
+    "virtual-dom": "^2.0.1",
+    "xtend": "^4.0.0"
+  },
+  "dependencies": {
+    "is-array": "^1.0.1"
+  }
+}
