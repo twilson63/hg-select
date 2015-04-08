@@ -1,6 +1,6 @@
 {
   "name": "hg-select",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[![build status](https://secure.travis-ci.org/twilson63/hg-select.png)](http://travis-ci.org/twilson63/hg-select)",
   "main": "index.js",
   "scripts": {
